@@ -1,0 +1,28 @@
+section{
+    margin: 20px;
+}
+input{
+    outline: none;
+}
+input{
+    margin-bottom: 20px;
+}
+input[type="submit"]{
+    outline: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    background-color: aqua;
+    color: #fff;
+    border: none;
+    width: 300px;
+    cursor: pointer;
+
+}
+input[type="submit"]:hover{
+    background-color: #6ad;
+}
+#erreur{
+    background-color: red;
+    color: rgb(245, 23, 23);
+    padding: 10px;
+}
